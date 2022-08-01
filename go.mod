@@ -1,4 +1,4 @@
-module github.com/spongeprojects/conch
+module github.com/surfinggo/conch
 
 go 1.18
 
